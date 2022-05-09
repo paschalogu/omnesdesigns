@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "omnesdesigns.com",
+  "Id": "5d59ac69-2855-413b-b0eb-9f8178f28a07"
+}
